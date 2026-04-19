@@ -3,7 +3,7 @@
 This project is an end-to-end data engineering pipeline designed to process and analyze real-time cryptocurrency data. The goal is to ingest raw API data into Azure Cloud, process it using Python/Pandas, and create structured, analytics-ready datasets.
 
 ## 🏗 Architecture Diagram
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](azure-project/architecture.png)
 
 ## 🛠 Tech Stack
 - **Cloud Platform:** Azure (Data Lake Storage Gen2)
